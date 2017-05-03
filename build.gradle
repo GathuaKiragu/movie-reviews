@@ -4,6 +4,7 @@ apply plugin: 'application'
 archivesBaseName = "movie-reviews"
 version = '1.0'
 mainClassName = "App"
+applicationName= "moviereviews"
 
 repositories {
   mavenCentral()
